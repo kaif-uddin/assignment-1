@@ -1,3 +1,6 @@
+*{
+    font-family: font-family: 'Inter', sans-serif;;
+}
 .banner{
     background-image: url(resources/Banner\ Image.png);
     background-repeat: no-repeat;
@@ -7,19 +10,23 @@
     margin: auto;
     position: relative;
     border-radius: 16px;
-    margin-top: 25px 70px ;
+    margin-top: 25px 70px ;  
 }
 
 .head{
     position: absolute;
     text-align: center;
-    padding-left: 22%;
-    padding-top: 7%;
+    width: 1320px;
+    height: 600px;
+    padding-top: 10%;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    
 
 }
 h3{
     font-size: 40px;
     color: #ffffff;
+    font-family: ;
 }
 h1{
     font-size: 70px;
@@ -53,6 +60,11 @@ img{
     margin-top: 80px;
 
 }
+.welcome{
+    
+    background:#070211, #07021100 ;
+
+}
 .welcome>p{
     color: #ffffff;
 
@@ -62,7 +74,12 @@ img{
 }
 .welcome{
     padding: 130px 5px 130px 130px;
-
+}
+.first-btn{
+    background: #ff0000;
+    padding: 10px;
+    border-radius: 10px;
+    border: 0;
 }
 .Group70{
     width: 250.83px;
@@ -79,6 +96,7 @@ img{
     border-radius: 10px;
     text-align: center;
     padding-top: 100px;
+    margin-top: 50px;
 }
 #color{
     color: #ff0000;
@@ -88,4 +106,122 @@ img{
     padding: 10px;
     border-radius: 10px;
     border: 0;
+}
+.first{
+    width: 400px;
+    height: 400px;
+    padding-top: 100px;
+    
+
+}
+.parent{
+    width: 1320px;
+    height: 800px;
+    display: flex;
+    margin-top: 50px;
+    margin: auto;
+    padding-right: 20px;
+ justify-content: space-between;
+}
+.style1{
+    color: #ff0000;
+    font-size: 24px;
+    margin-right: 30px;
+    
+}
+.style2{
+    color: #070211;
+    font-size: 48px;
+}
+.goll{
+  width: 400px;
+  height: 400px;
+  border: 15px solid #ff0000;
+  border-radius: 50%;
+  background-image: url("resources/Ellipse 1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+  
+}
+#pic-small{
+    width: 140px;
+    height: 140px;
+    padding-left: 0%;
+    
+}
+.year{
+    font-size: 48px;
+    color: #ff0000;
+    
+}
+.last{
+    padding-top: 70px ;
+}
+
+.center{
+    font-size: 30px;
+    color: #000000;
+    text-align: center;
+}
+#red-color{
+    color: #ff0000;
+}
+.big-font{
+    font-size: 72px;
+    text-align: center;
+}
+.some-text{
+    text-align: center;
+}
+.bonnus-part{
+    width: 1440px;
+    height: 625px;
+    display: flex;
+    background-image: url(resources/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin: auto;
+}
+
+.Group70{
+    margin-left:70px ;
+}
+
+
+.Rectangle1{
+    background-image: url(resources/Group\ 44.png);
+    background-repeat: no-repeat;
+    margin-left: 600px;
+    position: absolute;
+    
+}
+#frotpoloio{
+    width: 1320px;
+    margin: auto;
+}
+.frotpoloio{
+    color: #ff0000;
+    font-size: 24px;
+}
+.frotpoloio2{
+    color: #070211;
+}
+.grid-leyout{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    width: 1320px;
+    padding: auto;
+    
+}
+.img-box{
+    width: 350px;
+    height: 320px;
+    padding-bottom: 70px;
+    margin-inline: 20px;
+}
+.img-style{
+    width: 300px;
+    width: 320px;
+    margin-bottom: 100px;
 }
