@@ -225,3 +225,61 @@ img{
     width: 320px;
     margin-bottom: 100px;
 }
+.massage-img{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    padding-left: 585px;
+    padding-right: 585px;
+    padding-top: 50px;
+}
+.boro-div{
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-left: 140px;
+    margin-top: 50px;
+}
+.Subscribe{
+    font-size: 48px;
+    text-align: center;
+
+}
+#Dolor{
+    text-align: center;
+}
+.div1{
+    width: 648px;
+    height: 72px;
+    display: flex;
+    padding-left: 336px;
+    padding-right: 336px;
+    border-radius: 16px;
+}
+.div2{
+height:72px ;
+background: #ffffff;
+border-radius:10px;
+}
+.div3{
+height: 72px;
+background: #ff0000;
+border-radius: 10px;
+}
+.btn{
+    background: #ff0000;
+    color: #ffffff;
+    border: 0;
+    text-align: center;
+    padding: 24px 56px 24px 56px;
+    
+}
+.btn2{
+    background: #ffffff;
+    color: #000000;
+    border: 0;
+    text-align: center;
+    padding: 25px 447px 25px 30px ;
+   
+}
