@@ -283,3 +283,65 @@ border-radius: 10px;
     padding: 25px 447px 25px 30px ;
    
 }
+footer{
+    background: #070211;
+    margin-top: 100px;
+
+}
+.icon{
+    width: 24px;
+    height: 24px;
+    
+}
+.latter{
+    color: #ffffff;
+    font-size: 24px;
+    padding-top: 140px;
+    padding-left: 140px;
+}
+.word{
+    color: #ffffff;
+    font-size: 24px;
+    display: inline;
+    margin-left: 500px;
+
+}
+.child{
+    justify-content: space-between;
+    display: inline;
+}
+.inline{
+    padding-left: 700px;
+}
+hr{
+    
+    background: rgba(255, 255, 255, 0.15);
+}
+.meadiya-icon{
+    width:64px ;
+    height:64px ;
+
+}
+.meadiya-class{
+    display: flex;
+    padding-left: 600px;   
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+.Unsubscribe{
+    display: flex;
+}
+.write{
+    color: #ffffff;
+    font-size: 24px;
+    padding-top: 100px;
+    padding-left: 140px;
+}
+.old{
+    color: #ffffff;
+    font-size: 24px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 140px;
+    padding-left: 800px;
+}
